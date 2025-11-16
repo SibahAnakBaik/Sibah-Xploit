@@ -1,2 +1,0 @@
-# Sibah-Xploit
-Scripter
