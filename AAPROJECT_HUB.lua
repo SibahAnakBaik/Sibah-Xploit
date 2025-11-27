@@ -319,7 +319,7 @@ local function createLoadingScreen()
                 -- Define a bio do jogador
                 game:GetService("ReplicatedStorage").RE["1RPNam1eTex1t"]:FireServer(table.unpack({
                     [1] = "RolePlayBio",
-                    [2] = "Developer: sibah_txt",
+                    [2] = "Dev: sibah_txt",
                 }))
                 
                 -- Exibe a notificação de boas-vindas
