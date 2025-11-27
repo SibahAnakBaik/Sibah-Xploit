@@ -382,7 +382,7 @@ local Window = Libary:MakeWindow({
     Flags = "RegzyyHub_Broookhaven"
 })
 Window:AddMinimizeButton({
-    Button = { Image = "rbxassetid://91651883440825", BackgroundTransparency = 0 },
+    Button = { Image = "rbxassetid://916518834408", BackgroundTransparency = 0 },
     Corner = { CornerRadius = UDim.new(35, 1) },
 })
 
@@ -399,7 +399,7 @@ InfoTab:AddSection({"Créditos do Hub"})
 InfoTab:AddDiscordInvite({
     Name = "RegzyyHub",
     Description = "https://discord.gg/94jaeGg6",
-    Logo = "rbxassetid://91651883440825",
+    Logo = "rbxassetid://916518834408",
     Invite = "https://discord.gg/94jaeGg6",
 })
 
